@@ -12,11 +12,8 @@ navbar-links:
 
 site-css: "/assets/css/vitae.css"
 
-# Select the social network links that you want to show in the footer.
-# You can change the order that they show up on the page by changing the order here.
-# Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "jiahao303@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
@@ -63,7 +60,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "vitae-io.github.io.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -85,8 +82,7 @@ edit_page_button: true
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
 navbar-var-length: false
 
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "resume editor,ai,ai resume editor,"
 
 ######################################
 # --- Colours / background image --- #
@@ -94,11 +90,11 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#FFFFFF"
+navbar-text-col: "#000000"
+navbar-border-col: "#FFFFFF"
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
