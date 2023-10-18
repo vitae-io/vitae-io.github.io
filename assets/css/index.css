@@ -73,7 +73,7 @@ footer {
 }
 #header h1,
 #header h2 {
-  font-family: 'Helvetica Neue', sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #header a {
