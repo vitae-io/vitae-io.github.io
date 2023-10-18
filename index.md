@@ -38,7 +38,7 @@ ext-js:
     <div class="section-title">How It Works</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/demo_1.mov" />
         <div class="service-text">Building or improving Shiny apps of any complexity</div>
       </div>
       <div class="demo">
