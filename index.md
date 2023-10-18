@@ -15,9 +15,9 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# AttaliTech {#title}
+# Vitae {#title}
 
-## R-Shiny Consulting {#subtitle}
+## Your Resume. Crafted with AI. {#subtitle}
 
 #### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) {#sub-subtitle}
 
