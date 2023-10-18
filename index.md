@@ -19,8 +19,6 @@ ext-js:
 
 ## Vitae is a first-of-its-kind resume editor, empowered by AI. Create a resume customized for ATS that showcases your best accomplishments and suggests real-time edits tailored with keywords that job recruiters look for. {#subtitle}
 
-####  {#sub-subtitle}
-
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
   Contact Us
@@ -36,23 +34,23 @@ ext-js:
 <div id="main-sections">
 
 <div id="services-out" class="page-section cut1">
-  <div id="services">
-    <div class="section-title">What We Offer</div>
+  <div id="demo">
+    <div class="section-title">How It Works</div>
     <div id="services-list">
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
         <div class="service-text">Building or improving Shiny apps of any complexity</div>
       </div>
-      <div class="service">
+      <div class="demo">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
         <div class="service-text">Group workshops and private tutoring</div>
       </div>
-      <div id="services-break"></div>
-      <div class="service">
+      <div id="demo-break"></div>
+      <div class="demo">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
         <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
       </div>
-      <div class="service">
+      <div class="demo">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
         <div class="service-text">Professional quality R packages and custom solutions</div>
       </div>
