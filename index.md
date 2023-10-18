@@ -15,11 +15,11 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# Vitae {#title}
+# Your Resume. Crafted with AI. {#title}
 
-## Your Resume. Crafted with AI. {#subtitle}
+## Vitae is a first-of-its-kind resume editor, empowered by AI. Create a resume customized for ATS that showcases your best accomplishments and suggests real-time edits tailored with keywords that job recruiters look for. {#subtitle}
 
-#### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) {#sub-subtitle}
+####  {#sub-subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
