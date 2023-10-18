@@ -52,6 +52,15 @@ ext-js:
   </div>
 </div>
 
+<div id="testimonials" class="page-section grey-section cut2">
+  <div id="testimonials">
+    <div class="section-title">Testimonials</div>
+    <div id="aboutus-text">
+      It's a great service!
+    </div>
+  </div>
+</div>
+
 <div id="aboutus-out" class="page-section grey-section cut2">
   <div id="aboutus">
     <div class="section-title">About Us</div>
