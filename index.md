@@ -38,8 +38,9 @@ ext-js:
     <div class="section-title">How It Works</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/demo_1.mov" />
-        <div class="service-text">Building or improving Shiny apps of any complexity</div>
+        <video width="320" height="240">
+            <source src="/assets/img/demo_1.mp4" type="video/mp4">
+        </video>
       </div>
       <div class="demo">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
