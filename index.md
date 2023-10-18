@@ -19,12 +19,6 @@ ext-js:
 
 ## Vitae is a first-of-its-kind resume editor, empowered by AI. Create a resume customized for ATS that showcases your best accomplishments and suggests real-time edits tailored with keywords that job recruiters look for. {#subtitle}
 
-<a href="/contact" class="actionbtn">
-  <span class="far fa-envelope" aria-hidden="true"></span>
-  Contact Us
-</a>
-{: .actionbtn-out :}
-
 </div>
 
 <div id="particles-js"></div>
@@ -38,7 +32,7 @@ ext-js:
     <div class="section-title">How It Works</div>
     <div id="services-list">
       <div class="service">
-        <video width="320" height="240">
+        <video width="960" height="720">
             <source src="/assets/img/demo_1.mp4" type="video/mp4">
         </video>
       </div>
@@ -75,7 +69,7 @@ ext-js:
 
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
-    <div class="section-title">Clients</div>
+    <div class="section-title">Land a job with your dream company... </div>
     <div id="clients-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
     <div id="client-logos">
       {% for client in site.data.clients %}
