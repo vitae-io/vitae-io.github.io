@@ -32,9 +32,7 @@ ext-js:
     <div class="section-title">How It Works</div>
     <div id="services-list">
       <div class="service">
-        <video width="960" height="720">
-            <source src="/assets/img/demo_1.mp4" type="video/mp4">
-        </video>
+        <img class="service-img" alt="Service image" src="/assets/img/demo_1.gif" />
       </div>
       <div class="demo">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
@@ -51,10 +49,6 @@ ext-js:
       </div>
     </div>
 
-    <a href="/contact" class="actionbtn">
-      <span class="far fa-envelope" aria-hidden="true"></span>
-      Contact Us
-    </a>
   </div>
 </div>
 
