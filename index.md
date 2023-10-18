@@ -63,8 +63,6 @@ ext-js:
   </div>
 </div>
 
-<div class="cut-buffer aboutus-buffer"></div>
-
 <div id="aboutus-out" class="page-section grey-section cut2">
   <div id="aboutus">
     <div class="section-title">About Us</div>
@@ -73,8 +71,6 @@ ext-js:
     </div>
   </div>
 </div>
-
-<div class="cut-buffer values-buffer"></div>
 
 <div id="clients-out" class="page-section cut1">
   <div id="clients">
