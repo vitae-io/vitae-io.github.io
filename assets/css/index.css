@@ -1,7 +1,7 @@
 body, html {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-color: #fff;
-  color: #333;
+  color: #000000;
   margin: 0;
   padding: 0;
 }
@@ -65,9 +65,9 @@ footer {
 #header {
   text-align: center;
   margin-top: 3.125rem;
-  background: #05172d;
+  background: #ffffff;
   padding: 10rem 0 13rem;
-  color: #fff;
+  color: #000000;
   background-image: url(/assets/img/stardust-bg.png);
   animation: animatedBackground 100s linear infinite;
 }
