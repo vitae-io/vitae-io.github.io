@@ -65,9 +65,9 @@ footer {
 #header {
   text-align: center;
   margin-top: 3.125rem;
-  background: #000000;
+  background: #ffffff;
   padding: 10rem 0 13rem;
-  color: #ffffff;
+  color: #000000;
 }
 #header h1,
 #header h2 {
