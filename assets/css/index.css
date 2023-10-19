@@ -226,9 +226,7 @@ footer {
   vertical-align: top;
   width: 27rem;
 }
-#demo .demo:hover {
-  background: #fafafa;
-}
+
 #demo .demo-img {
   padding: 0 1rem;
 }
