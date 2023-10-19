@@ -30,7 +30,7 @@ ext-js:
 <div id="demo" class="page-section black-section">
   <div id="demo">
     <div class="section-title">How It Works</div>
-    <div id="services-list">
+    <div id="demo-list">
       <div class="demo">
         <img align="left" class="service-img" alt="Service image" src="/assets/img/demo_1.gif" />
       </div>
@@ -38,7 +38,6 @@ ext-js:
         <img align="right" class="service-img" alt="Service image" src="/assets/img/demo_2.gif" />
         <div class="service-text">Fill out our interactive online editor with your resume entry. Vitae will evaluate your bullet point and score it based off of Grammar, Structure, Impact, Collaboration, Leadership, and Technical Skills.</div>
       <br class="blank"/>
-  
       </div>
       <div id="demo-break"></div>
       <div class="demo">
