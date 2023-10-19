@@ -213,12 +213,11 @@ footer {
   }
 }
 
-#services {
+#demo {
   display: block;
   margin: 0 auto;
-  text-shadow: 0 1px #fff;
 }
-#services .service {
+#demo .demo {
   display: inline-block;
   padding-bottom: 1rem;
   font-size: 1.8rem;
@@ -227,30 +226,30 @@ footer {
   vertical-align: top;
   width: 27rem;
 }
-#services .service:hover {
+#demo .demo:hover {
   background: #fafafa;
 }
-#services .service-img {
+#demo .demo-img {
   padding: 0 1rem;
 }
-#services .service-text {
+#demo .demo-text {
   margin-top: -1rem;
 }
-#services-break {
+#demo-break {
   display: none;
 }
 @media only screen and (max-width: 1899px) {
-  #services-break {
+  #demo-break {
     display: block;
     margin-top: 4rem;
   }
-  #services .service {
+  #demo .demo {
     margin: 0 2rem;
     width: 25rem;
   }
 }
 @media only screen and (max-width: 999px) {
-  #services .service {
+  #demo .demo {
     padding: 1rem 0.625rem;
     font-size: 1.25rem;
     width: 20rem;
@@ -259,12 +258,12 @@ footer {
   }
 }
 @media only screen and (max-width: 650px) {
-  #services-break {
+  #demo-break {
     display: none;
   }
 }
 
-#services-list {
+#demo-list {
   margin: -1rem 0 4.375rem;
 }
 
