@@ -15,6 +15,7 @@ p a:hover{
   color: #1E6DE8;
 }
 
+/*
 .cut1 {
   clip-path: polygon(0 0,100% 0,100% 100%,0 calc(100% - 4vw));
 }
@@ -37,6 +38,7 @@ p a:hover{
     padding: 4.5rem 0 calc(4.5rem + 5vw);
   }
 }
+*/
 
 footer {
   border-top: 0;
