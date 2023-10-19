@@ -230,6 +230,8 @@ footer {
 
 #demo .demo-img {
   padding: 0 1rem;
+  max-width: 150%;
+  height: auto;
 }
 #demo .demo-text {
   margin-top: 0rem;
