@@ -4,8 +4,6 @@ author: Vitae Ltd
 
 navbar-links:
   Demo: "/#demo"
-  Testimonials: "/#testimonials"
-  About Us: "/#aboutus"
   Try Now For Free: https://vitae-frontend.vercel.app/
   
 # title-img: /assets/img/
