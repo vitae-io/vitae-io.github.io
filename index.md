@@ -27,11 +27,11 @@ ext-js:
 
 <div id="main-sections">
 
-<div id="services-out" class="page-section">
+<div id="demo" class="page-section">
   <div id="demo">
     <div class="section-title">How It Works</div>
     <div id="services-list">
-      <div class="service">
+      <div class="demo">
         <img align="left" class="service-img" alt="Service image" src="/assets/img/demo_1.gif" />
       </div>
       <div class="demo">
