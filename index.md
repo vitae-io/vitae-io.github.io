@@ -32,7 +32,7 @@ ext-js:
     <div class="section-title">How It Works</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/demo_1.gif" />
+        <img align="left" class="service-img" alt="Service image" src="/assets/img/demo_1.gif" />
       </div>
       <div class="demo">
         <img class="service-img" alt="Service image" src="/assets/img/demo_2.gif" />
