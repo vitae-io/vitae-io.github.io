@@ -27,7 +27,7 @@ ext-js:
 
 <div id="main-sections">
 
-<div id="demo" class="page-section">
+<div id="demo" class="page-section black-section">
   <div id="demo">
     <div class="section-title">How It Works</div>
     <div id="services-list">
