@@ -40,7 +40,7 @@ ext-js:
       </div>
       <div id="demo-break"></div>
       <div class="demo">
-        <img align="left" class="service-img" alt="Service image" src="/assets/img/demo_3.gif" />
+        <img class="service-img" alt="Service image" src="/assets/img/demo_3.gif" />
         <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
     </div>
 
