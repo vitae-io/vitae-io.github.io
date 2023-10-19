@@ -35,12 +35,12 @@ ext-js:
         <img align="left" class="service-img" alt="Service image" src="/assets/img/demo_1.gif" />
       </div>
       <div class="demo">
-        <img class="service-img" alt="Service image" src="/assets/img/demo_2.gif" />
+        <img align="right" class="service-img" alt="Service image" src="/assets/img/demo_2.gif" />
         <div class="service-text">Group workshops and private tutoring</div>
       </div>
       <div id="demo-break"></div>
       <div class="demo">
-        <img class="service-img" alt="Service image" src="/assets/img/demo_3.gif" />
+        <img align="left" class="service-img" alt="Service image" src="/assets/img/demo_3.gif" />
         <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
     </div>
 
