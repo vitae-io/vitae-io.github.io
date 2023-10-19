@@ -27,7 +27,7 @@ ext-js:
 
 <div id="main-sections">
 
-<div id="services-out" class="page-section cut1">
+<div id="services-out" class="page-section">
   <div id="demo">
     <div class="section-title">How It Works</div>
     <div id="services-list">
@@ -43,11 +43,10 @@ ext-js:
         <img class="service-img" alt="Service image" src="/assets/img/demo_3.gif" />
         <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
     </div>
-
   </div>
 </div>
 
-<div id="testimonials" class="page-section grey-section cut2">
+<div id="testimonials" class="page-section grey-section">
   <div id="testimonials">
     <div class="section-title">Testimonials</div>
     <div id="aboutus-text">
@@ -56,7 +55,7 @@ ext-js:
   </div>
 </div>
 
-<div id="aboutus-out" class="page-section grey-section cut2">
+<div id="aboutus-out" class="page-section grey-section">
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
@@ -65,7 +64,7 @@ ext-js:
   </div>
 </div>
 
-<div id="clients-out" class="page-section cut1">
+<div id="clients-out" class="page-section">
   <div id="clients">
     <div class="section-title">Land a job with your dream company... </div>
     <div id="clients-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
