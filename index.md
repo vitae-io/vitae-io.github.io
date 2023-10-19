@@ -15,9 +15,9 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# Your Resume.\n Crafted with AI. {#title}
+# Your Resume. <br> Crafted with AI. {#title}
 
-## Vitae is a first-of-its-kind resume editor, empowered by AI.\n Create a resume customized for ATS that showcases your best accomplishments and suggests real-time edits tailored with keywords that job recruiters look for. {#subtitle}
+## Vitae is a first-of-its-kind resume editor, empowered by AI. <br> Create a resume customized for ATS that showcases your best accomplishments and suggests real-time edits tailored with keywords that job recruiters look for. {#subtitle}
 
 </div>
 
