@@ -17,7 +17,14 @@ ext-js:
 
 # Your Resume. <br> Crafted with AI. {#title}
 
-<img class="mockup" alt="mockup" src="/assets/img/macbook-mockup.png" width="3089" height="1827" />
+<style>
+img {
+  max-width: 70%;
+  height: auto;
+}
+</style>
+
+<img class="mockup" alt="mockup" src="/assets/img/macbook-mockup.png"/>
 
 ## Vitae is a first-of-its-kind resume editor, empowered by AI. <br> Create a resume customized for ATS that showcases your best accomplishments and suggests real-time edits tailored with keywords that job recruiters look for. {#subtitle}
 
