@@ -67,9 +67,8 @@ footer {
   margin-top: 3.125rem;
   background: #ffffff;
   padding: 10rem 0 13rem;
-  color: #000000;
+  color: #ffffff;
   background-image: url(/assets/img/gradient-bg.png);
-  animation: animatedBackground 100s linear infinite;
 }
 #header h1,
 #header h2 {
