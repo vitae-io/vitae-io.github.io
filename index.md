@@ -37,8 +37,8 @@ ext-js:
       <div class="demo">
         <img align="right" class="service-img" alt="Service image" src="/assets/img/demo_2.gif" />
         <div class="service-text">Fill out our interactive online editor with your resume entry. Vitae will evaluate your bullet point and score it based off of Grammar, Structure, Impact, Collaboration, Leadership, and Technical Skills.</div>
-      <br>
-      </br>
+      <br class="blank"/>
+  
       </div>
       <div id="demo-break"></div>
       <div class="demo">
