@@ -232,7 +232,7 @@ footer {
   padding: 0 1rem;
 }
 #demo .demo-text {
-  margin-top: -1rem;
+  margin-top: 0rem;
 }
 #demo-break {
   display: none;
