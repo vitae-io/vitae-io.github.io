@@ -37,11 +37,13 @@ ext-js:
         </div>
       <div class="demo">
         <img class="demo-img" alt="Demo text" src="/assets/img/demo_2.gif" />
+        <div class="demo-text">Review any suggestions Vitae makes for your bullet point on the right. Choose an updated entry based off the skill you want to emphasize.</div>
       </div>
       <div id="demo-break"></div>
       <div class="demo">
         <img class="service-img" alt="Service image" src="/assets/img/demo_3.gif" />
-        <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
+        <div class="service-text">Download your resume—you're one step closer to getting your dream job!
+</div>
     </div>
   </div>
 </div>
