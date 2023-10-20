@@ -228,6 +228,10 @@ footer {
   width: 27rem;
 }
 
+.text-container {
+  margin-left: 20px
+}
+
 #demo .demo-text {
   margin-top: 0rem;
 }
