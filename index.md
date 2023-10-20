@@ -39,24 +39,23 @@ img {
 <div id="demo" class="page-section black-section">
   <div id="demo">
     <div class="section-title">How It Works</div>
-    <div id="demo-list">
-      <div class="demo">
-          <img class="demo-img" alt="Demo gif" src="/assets/img/demo_1.gif" />
-          <div class="demo-text">Fill out our interactive online editor with your resume entry. Vitae will evaluate your bullet point and score it based off of Grammar, Structure, Impact, Collaboration, Leadership, and Technical Skills.</div>
+      <div id="demo-list">
+        <div class="demo">
+            <img class="demo-img" alt="Demo gif" src="/assets/img/demo_1.gif" />
+            <span>Fill out our interactive online editor with your resume entry. Vitae will evaluate your bullet point and score it based off of Grammar, Structure, Impact, Collaboration, Leadership, and Technical Skills.</span>
         </div>
-      <div id="demo-break"></div>
-      <div class="demo">
-        <img class="demo-img" alt="Demo gif" src="/assets/img/demo_2.gif" />
-        <div class="demo-text">Review any suggestions Vitae makes for your bullet point on the right. Choose an updated entry based off the skill you want to emphasize.</div>
-      </div>
-      <div id="demo-break"></div>
-      <div class="demo">
-        <img class="demo-img" alt="Demo gif" src="/assets/img/demo_3.gif" />
-        <div class="demo-text">Download your resume—you're one step closer to getting your dream job!
-      </div>
+        <div id="demo-break"></div>
+        <div class="demo">
+          <img class="demo-img" alt="Demo gif" src="/assets/img/demo_2.gif" />
+          <span>Review any suggestions Vitae makes for your bullet point on the right. Choose an updated entry based off the skill you want to emphasize.</span>
+        </div>
+        <div id="demo-break"></div>
+        <div class="demo">
+          <img class="demo-img" alt="Demo gif" src="/assets/img/demo_3.gif" />
+          <span>Download your resume—you're one step closer to getting your dream job!</span>
+        </div>
     </div>
   </div>
-</div>
 
 <div id="clients-out" class="page-section">
   <div id="clients">
