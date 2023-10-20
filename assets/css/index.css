@@ -220,12 +220,13 @@ footer {
   margin: 0 auto;
 }
 #demo .demo {
+  max-width: 300%;
+  height: auto;
   display: block;
   padding-bottom: 1rem;
   font-size: 1.8rem;
   line-height: 1.3;
   cursor: default;
-  vertical-align: top;
   width: 27rem;
 }
 
