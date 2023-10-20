@@ -26,7 +26,7 @@ img {
 
 <img class="mockup" alt="mockup" src="/assets/img/macbook-mockup.png"/>
 
-## Vitae is a first-of-its-kind resume editor, empowered by <p style="color: skyblue"> AI </p>. <br> Create a resume customized for ATS that suggests real-time edits tailored with keywords that job recruiters look for. {#title}
+## Vitae is a first-of-its-kind resume editor, empowered by <span style="color:blue">AI</span>. <br> Create a resume customized for ATS that suggests real-time edits tailored with keywords that job recruiters look for. {#title}
 
 </div>
 
