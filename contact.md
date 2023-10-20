@@ -9,13 +9,6 @@ share-title: VItae | Contact Us
 
 For any  inquiries, please email [jiahao303@gmail.com](mailto:jiahao303@gmail.com?subject=Vitae Inquiry)
 
-<div style="text-align: center;">
-<a href="https://calendly.com/attalitech/meeting" class="schedule-btn actionbtn">
-  <span class="far fa-calendar-check" aria-hidden="true"></span>
-  Schedule Meeting
-</a>
-</div>
-
 You can also send us a message using the form below.
 
 <form action="https://submit-form.com/sV7y563V" class="form" id="contact-form">
@@ -32,11 +25,6 @@ You can also send us a message using the form below.
     <input type="checkbox" id="formspree-subscribe" name="formspree-subscribe" value="agree" checked style="margin-top: 2px; margin-right: 4px;" />
     <label for="formspree-subscribe">Sign up to Shiny newsletter (unsubscribe at any time)</label>
   </div>
-
-  <div class="g-recaptcha" data-sitekey="6Levj9waAAAAAKjnDWEPUfENn91YBRofBG7VxCUP" data-callback="enableSubmitContact"></div>
-  <input type="hidden" name="_feedback.success.title" value="Thanks for contacting AttaliTech, we'll be in touch shortly!" />
-  <input type="hidden" name="_email.from" value="Formspark AttaliTech" />
-  <input type="hidden" name="_feedback.error.title" value="An error occurred (did you check the &quot;I'm not a robot&quot; box?)" />
 
   <br/>
   <button id="submit_contact" type="submit" class="btn btn-lg btn-primary" disabled>Submit</button>
