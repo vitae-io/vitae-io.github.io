@@ -220,8 +220,6 @@ footer {
   margin: 0 auto;
 }
 #demo .demo {
-  max-width: 300%;
-  height: auto;
   display: block;
   padding-bottom: 1rem;
   font-size: 1.8rem;
@@ -233,6 +231,11 @@ footer {
 #demo .demo-text {
   margin-top: 0rem;
 }
+#demo .demo-img {
+  max-width: 300%;
+  height: auto
+}
+
 #demo-break {
   display: none;
 }
