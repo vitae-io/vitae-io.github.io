@@ -229,12 +229,6 @@ footer {
   width: 27rem;
 }
 
-#demo .demo-img {
-  max-width: 200%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-}
 #demo .demo-text {
   margin-top: 0rem;
 }
