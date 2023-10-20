@@ -95,9 +95,9 @@ footer {
 }
 
 #subtitle  {
-  font-weight: 600;
   margin: 0;
-  font-size: 4rem;
+  font-size: 3rem;
+  font-weight: 700;
 }
 
 #sub-subtitle {
