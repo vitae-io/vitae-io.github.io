@@ -15,7 +15,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# Your Resume. <br> Crafted with <span style="color:royalblue">AI</span>. {#title}
+# Your Resume. <br> Crafted with <span style="color:RoyalBlue">AI</span>. {#title}
 
 <style>
 img {
