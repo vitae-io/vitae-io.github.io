@@ -15,7 +15,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# Your Resume. <br> Crafted with AI. {#title}
+# Your Resume. <br> Crafted with <span style="color:royalblue">AI</span>. {#title}
 
 <style>
 img {
@@ -26,7 +26,7 @@ img {
 
 <img class="mockup" alt="mockup" src="/assets/img/macbook-mockup.png"/>
 
-## Vitae is a first-of-its-kind resume editor, empowered by <span style="color:blue">AI</span>. <br> Create a resume customized for ATS that suggests real-time edits tailored with keywords that job recruiters look for. {#title}
+## Vitae is a first-of-its-kind resume editor, empowered by AI. <br> Create a resume customized for ATS that suggests real-time edits tailored with keywords that job recruiters look for. {#title}
 
 </div>
 
