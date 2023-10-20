@@ -220,7 +220,7 @@ footer {
   margin: 0 auto;
 }
 #demo .demo {
-  display: inline-block;
+  display: block;
   padding-bottom: 1rem;
   font-size: 1.8rem;
   line-height: 1.3;
