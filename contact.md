@@ -23,7 +23,6 @@ You can also send us a message using the form below.
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <div style="margin-top: 5px; display: flex; margin-bottom: 15px; font-size: 0.7rem;">
     <input type="checkbox" id="formspree-subscribe" name="formspree-subscribe" value="agree" checked style="margin-top: 2px; margin-right: 4px;" />
-    <label for="formspree-subscribe">Sign up to Shiny newsletter (unsubscribe at any time)</label>
   </div>
 
   <br/>
