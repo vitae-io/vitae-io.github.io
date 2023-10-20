@@ -62,7 +62,7 @@ img {
     <div class="client-title">Land a job with your dream company... </div>
     <div id="client-logos">
       {% for client in site.data.clients %}
-        <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
+        <a class="client-img" title="{{ client.name }}">
           <img alt="{{ client.name }}" src="/assets/img/logos/{{ client.img }}" />
         </a>
       {% endfor %}
