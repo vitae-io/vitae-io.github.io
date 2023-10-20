@@ -60,7 +60,7 @@ img {
 
 <div id="clients-out" class="page-section">
   <div id="clients">
-    <div class="section-title">Land a job with your dream company... </div>
+    <div class="client-title">Land a job with your dream company... </div>
     <div id="client-logos">
       {% for client in site.data.clients %}
         <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
