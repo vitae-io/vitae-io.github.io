@@ -76,7 +76,7 @@ img {
   <div id="cta">
     <div class="section-title">Have any feedback? We'd love to hear from you!</div><br/>
   </div>
-  <a href="mailto:jiahao303@gmail.com?subject=Vitae Inquiry," class="actionbtn">
+  <a href="mailto:jiahao303@gmail.com?subject=Vitae Inquiry" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>
     Contact Us
   </a>
