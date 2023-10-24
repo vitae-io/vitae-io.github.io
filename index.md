@@ -50,13 +50,21 @@ img {
         </div>
         <div id="demo-break"></div>
         <div class="container">
-          <img class="image" alt="Demo gif" src="/assets/img/demo_2.gif" />
-          <span>Review any suggestions Vitae makes for your bullet point on the right. Choose an updated entry based off the skill you want to emphasize.</span>
+          <div class="image">
+            <img src="/assets/img/demo_2.gif"/>
+          </div>
+          <div class="text">
+            <h1>Review any suggestions Vitae makes for your bullet point on the right. Choose an updated entry based off the skill you want to emphasize.</h1>
+          </div>
         </div>
         <div id="demo-break"></div>
-        <div class="demo">
-          <img class="demo-img" alt="Demo gif" src="/assets/img/demo_3.gif" />
-          <span>Download your resume—you're one step closer to getting your dream job!</span>
+        <div class="container">
+          <div class="image">
+            <img src="/assets/img/demo_3.gif"/>
+          </div>
+          <div class="text">
+            <h1>Download your resume—you're one step closer to getting your dream job!</g1>
+          </div>
         </div>
     </div>
   </div>
