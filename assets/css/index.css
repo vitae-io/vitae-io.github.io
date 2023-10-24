@@ -226,7 +226,7 @@ footer {
 
 .container {
   display: grid;
-  align-items: center;
+  align-items: left;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 5px;
 }
