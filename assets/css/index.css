@@ -233,7 +233,7 @@ footer {
 
 img {
   max-width: 1000%;
-  max-height: 1000%;
+  height: auto
 }
 
 .text {
