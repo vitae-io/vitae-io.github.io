@@ -68,6 +68,7 @@ img {
         </div>
     </div>
   </div>
+</div>
 
 <div id="clients-out" class="page-section">
   <div id="clients">
