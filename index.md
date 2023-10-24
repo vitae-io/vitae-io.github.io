@@ -40,13 +40,17 @@ img {
   <div id="demo">
     <div class="section-title">How It Works</div>
       <div id="demo-list">
-        <div class="demo" style="clear:left;">
-            <p style="float: left;"><img class="demo-img" alt="Demo gif" src="/assets/img/demo_1.gif" /></p>
-            <p>Fill out our interactive online editor with your resume entry. Vitae will evaluate your bullet point and score it based off of Grammar, Structure, Impact, Collaboration, Leadership, and Technical Skills.</p>
+        <div class="container">
+          <div class="image">
+            <img src="/assets/img/demo_1.gif"/>
+          </div>
+          <div class="text">
+            <h1>Fill out our interactive online editor with your resume entry. Vitae will evaluate your bullet point and score it based off of Grammar, Structure, Impact, Collaboration, Leadership, and Technical Skills.</h1>
+          </div>
         </div>
         <div id="demo-break"></div>
-        <div class="demo">
-          <img class="demo-img" alt="Demo gif" src="/assets/img/demo_2.gif" />
+        <div class="container">
+          <img class="image" alt="Demo gif" src="/assets/img/demo_2.gif" />
           <span>Review any suggestions Vitae makes for your bullet point on the right. Choose an updated entry based off the skill you want to emphasize.</span>
         </div>
         <div id="demo-break"></div>
