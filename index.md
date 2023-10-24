@@ -41,7 +41,7 @@ img {
     <div class="section-title">How It Works</div>
       <div id="demo-list">
         <div class="container">
-          <div class="image">
+          <div class="demo-img">
             <img src="/assets/img/demo_1.gif"/>
           </div>
           <div class="text">
@@ -50,7 +50,7 @@ img {
         </div>
         <div id="demo-break"></div>
         <div class="container">
-          <div class="image">
+          <div class="demo-img">
             <img src="/assets/img/demo_2.gif"/>
           </div>
           <div class="text">
@@ -59,7 +59,7 @@ img {
         </div>
         <div id="demo-break"></div>
         <div class="container">
-          <div class="image">
+          <div class="demo-img">
             <img src="/assets/img/demo_3.gif"/>
           </div>
           <div class="text">
