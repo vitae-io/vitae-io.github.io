@@ -231,7 +231,7 @@ footer {
   column-gap: 5px;
 }
 
-img {
+#demo .demo-img {
   width: 1000px;
   height: auto
 }
