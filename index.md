@@ -63,7 +63,7 @@ img {
             <img src="/assets/img/demo_3.gif"/>
           </div>
           <div class="text">
-            <h1>Download your resume—you're one step closer to getting your dream job!</g1>
+            <h1>Download your resume—you're one step closer to getting your dream job!</h1>
           </div>
         </div>
     </div>
