@@ -227,12 +227,12 @@ footer {
 .container {
   display: grid;
   align-items: center;
-  grid-template-columns: 1fr 10fr;
+  grid-template-columns: 1fr 1fr;
   column-gap: 5px
 }
 
 #demo .demo-img {
-  width: 1000px;
+  width: 2000px;
   height: auto
 }
 
