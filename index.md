@@ -45,7 +45,7 @@ img {
             <img src="/assets/img/demo_1.gif"/>
           </div>
           <div class="text">
-            <p>Fill out our interactive online editor with your resume entry. Vitae will evaluate your bullet point and score it based off of Grammar, Structure, Impact, Collaboration, Leadership, and Technical Skills.</p>
+            <h2>Fill out our interactive online editor with your resume entry. Vitae will evaluate your bullet point and score it based off of Grammar, Structure, Impact, Collaboration, Leadership, and Technical Skills.</h2>
           </div>
         </div>
         <div id="demo-break"></div>
@@ -54,7 +54,7 @@ img {
             <img src="/assets/img/demo_2.gif"/>
           </div>
           <div class="text">
-            <p>Review any suggestions Vitae makes for your bullet point on the right. Choose an updated entry based off the skill you want to emphasize.</p>
+            <h2>Review any suggestions Vitae makes for your bullet point on the right. Choose an updated entry based off the skill you want to emphasize.</h2>
           </div>
         </div>
         <div id="demo-break"></div>
@@ -63,7 +63,7 @@ img {
             <img src="/assets/img/demo_3.gif"/>
           </div>
           <div class="text">
-            <p>Download your resume—you're one step closer to getting your dream job!</p>
+            <h2>Download your resume—you're one step closer to getting your dream job!</h2>
           </div>
         </div>
     </div>
