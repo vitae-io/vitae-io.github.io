@@ -96,5 +96,3 @@ img {
     Contact Us
   </a>
 </div>
-
-</div>
