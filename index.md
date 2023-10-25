@@ -87,7 +87,7 @@ img {
 
 <div class="cut-buffer"></div>
 
-<div id="cta-out" class="page-section">
+<div id="cta-out" class="page-section black-section">
   <div id="cta">
     <div class="section-title">Have any feedback? We'd love to hear from you!</div><br/>
   </div>
