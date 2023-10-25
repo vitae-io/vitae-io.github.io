@@ -226,9 +226,10 @@ footer {
 
 .container {
   display: grid;
-  align-items: left;
+  align-items: center;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 5px;
+  margin-right: 10px;
 }
 
 #demo .demo-img {
