@@ -339,11 +339,8 @@ footer {
 }
 #cta-out {
   margin: 0 auto;
-  background: url(/assets/img/buildings.jpg);
   background-size: cover;
   background-position: 0 50%;
-  color: #fff;
-  text-shadow: 1px 1px 2px #000;
   padding: 5rem 0 6rem;
 }
 #clients-subtitle {
