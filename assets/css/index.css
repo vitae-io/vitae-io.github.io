@@ -227,14 +227,13 @@ footer {
 .container {
   display: grid;
   align-items: center;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
   column-gap: 5px
 }
 
 #demo .demo-img {
   width: 1000px;
-  height: auto;
-  margin-right: 10px;
+  height: auto
 }
 
 .text {
