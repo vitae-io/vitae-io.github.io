@@ -49,6 +49,7 @@ img {
           </div>
         </div>
         <div id="demo-break"></div>
+        <div id="demo-break"></div>
         <div class="container">
           <div class="demo-img">
             <img src="/assets/img/demo_2.gif"/>
@@ -57,6 +58,7 @@ img {
             <h2>Review any suggestions Vitae makes for your bullet point on the right. Choose an updated entry based off the skill you want to emphasize.</h2>
           </div>
         </div>
+        <div id="demo-break"></div>
         <div id="demo-break"></div>
         <div class="container">
           <div class="demo-img">
