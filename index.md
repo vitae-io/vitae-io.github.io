@@ -9,6 +9,10 @@ js:
   - /assets/js/index.js
 ext-js:
   - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
+image:
+  path: assets/sleepdungeon/og_image.png
+  width: 500
+  height: 500
 ---
 
 <div id="header" class="cut1" markdown="1">
