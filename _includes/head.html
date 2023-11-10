@@ -60,12 +60,9 @@
   <meta property="og:title" content="Vitae AI" />
   <meta property="og:description" content="Tailor your resume with AI" />
 
-  <meta
-    property="og:image"
-    content="{{ /assets/img/preview.jpeg | absolute_url }}"
-  />
-
-  {% if page.id %}
+  {% if img != "" %}
+  <meta property="og:image" content="{{ img | absolute_url }}" />
+  {% endif %} {% if page.id %}
   <meta property="og:type" content="article" />
   <meta property="og:article:author" content="{{ site.author }}" />
   <meta

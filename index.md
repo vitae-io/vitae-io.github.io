@@ -9,13 +9,17 @@ js:
   - /assets/js/index.js
 ext-js:
   - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
+image:
+  path: assets/img/preview.jpeg
+  width: 500
+  height: 500
 ---
 
 <div id="header" class="cut1" markdown="1">
 
 <div id="header-inner" markdown="1">
 
-# Your Resume. <br> Crafted with <span style="color:RoyalBlue">AI</span>. {#title}
+# Your Resume. `<br>` Crafted with `<span style="color:RoyalBlue">`AI.
 
 <style>
 img {
@@ -26,7 +30,7 @@ img {
 
 <img class="mockup" alt="mockup" src="/assets/img/macbook-mockup.png"/>
 
-## Vitae is a first-of-its-kind resume editor, empowered by AI. <br> Create a resume customized for ATS that suggests real-time edits tailored with keywords that job recruiters look for. {#subtitle}
+## Vitae is a first-of-its-kind resume editor, empowered by AI. `<br>` Create a resume customized for ATS that suggests real-time edits tailored with keywords that job recruiters look for.
 
 </div>
 
