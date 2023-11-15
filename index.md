@@ -10,7 +10,7 @@ js:
 ext-js:
   - //cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js
 image:
-    path: /assets/img/preview.jpeg
+    path: /assets/img/purple.svg
     width: 500
     height: 500
 ---
