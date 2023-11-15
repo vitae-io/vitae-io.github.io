@@ -59,6 +59,9 @@
 
   <meta property="og:title" content="Vitae AI" />
   <meta property="og:description" content="Tailor your resume with AI" />
+  {% if img != "" %}
+  <meta property="og:image" content="{{ img | absolute_url }}" />
+  {% endif %}
 
 
   
